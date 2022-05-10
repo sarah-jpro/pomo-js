@@ -6,7 +6,7 @@
 
 
 
-# pomodoro-js :hourglass_flowing_sand:
+# Pomodoro-js :hourglass_flowing_sand:
 
  :tomato: Here is a Pomodoro created during my personal learning during my training at BeCode
  
