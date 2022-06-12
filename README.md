@@ -7,11 +7,16 @@
 
 
 # Pomodoro-js :hourglass_flowing_sand:
-
+______________________________________
  :tomato: Here is a Pomodoro created during my personal learning during my training at BeCode
  
   - Using Bootstrap
   - HTML 5
   - CSS
   - JavaScript
+
+# Look :eyes:
+
+<p align="center">
+  <img src="./image-pomo.jpeg" width="600">
 

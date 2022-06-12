@@ -6,7 +6,7 @@ body {
 
   /* Main heading */
 .heading {
-    color: #bae8e8;
+    color: #4fda13;
 }
 
 /* Countdown timer */
@@ -15,7 +15,7 @@ body {
     text-align: center;
     width: 20rem;
     height: 20rem;
-    border: 5px solid #fff;
+    border: 5px solid #4fda13;
     border-radius: 10rem;
     display: flex;
     justify-content: center;
